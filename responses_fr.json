@@ -1,0 +1,14 @@
+# responses_fr.json
+{
+    "greeting": "Bienvenue sur le chatbot de Génie Mécanique de la FST Tanger ! Comment puis-je vous aider aujourd'hui ?",
+    
+    "perspectives|carrière|travail|emploi": "Le Génie Mécanique offre diverses perspectives de carrière :\n- Ingénieur de conception\n- Ingénieur de fabrication\n- Chef de projet\n- Industrie automobile\n- Industrie aérospatiale\n- Secteur énergétique\n- Recherche et développement",
+    
+    "admission|conditions|inscription": "Conditions d'admission en Génie Mécanique à la FST Tanger :\n- Baccalauréat en Sciences Physiques ou Sciences Mathématiques\n- Bonnes notes en Mathématiques et Physique\n- Réussite au concours d'entrée\n- Bonne maîtrise du français",
+    
+    "cours|matières|programme": "Les matières principales en Génie Mécanique comprennent :\n- Thermodynamique\n- Mécanique des fluides\n- Mécanique du solide\n- Conception mécanique\n- Procédés de fabrication\n- CAO/FAO\n- Science des matériaux\n- Systèmes de contrôle",
+    
+    "fst|université|faculté": "La FST Tanger propose un programme complet en Génie Mécanique avec :\n- Laboratoires modernes\n- Partenariats industriels\n- Opportunités de stages\n- Projets de recherche\n- Collaboration internationale",
+    
+    "default": "Je peux vous aider avec des informations sur les perspectives en génie mécanique, les cours, les conditions d'admission et les opportunités à la FST Tanger. Veuillez reformuler votre question."
+}
