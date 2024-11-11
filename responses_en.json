@@ -1,0 +1,13 @@
+# responses_en.json
+{
+    "greeting": "Welcome to the FST Tanger Mechanical Engineering Chatbot! How can I help you today?",
+    "prospects|career|job|work": "Mechanical Engineering offers diverse career prospects including:\n- Design Engineer\n- Manufacturing Engineer\n- Project Manager\n- Automotive Industry\n- Aerospace Industry\n- Energy Sector\n- Research and Development",
+    
+    "admission|requirements|apply": "Admission requirements for Mechanical Engineering at FST Tanger:\n- Baccalaureate in Physical Sciences or Mathematical Sciences\n- Strong grades in Mathematics and Physics\n- Passing the entrance exam\n- Good command of French language",
+    
+    "courses|lessons|subjects": "Key subjects in Mechanical Engineering include:\n- Thermodynamics\n- Fluid Mechanics\n- Solid Mechanics\n- Machine Design\n- Manufacturing Processes\n- CAD/CAM\n- Materials Science\n- Control Systems",
+    
+    "fst|university|faculty": "FST Tanger offers a comprehensive Mechanical Engineering program with:\n- Modern laboratories\n- Industry partnerships\n- Internship opportunities\n- Research projects\n- International collaboration",
+    
+    "default": "I can help you with information about mechanical engineering prospects, courses, admission requirements, and opportunities at FST Tanger. Please rephrase your question."
+}
